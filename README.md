@@ -1,1 +1,5 @@
 # Mbadog
+
+Indonesia is a country with a wide variety of traditional foods from every region. However, Indonesia is famous for one of its signature dishes, which is spicy food that comes from Sambal. It can be said that Sambal is the true companion of Indonesian people when it comes to eating. As an Indonesian myself, I am in love with Indonesian food, but I cannot handle eating Sambal.
+
+So, to introduce Indonesian food and Sambal as its star, I created an app called Mbadog. Mbadog comes from the Javanese language, which means "eating". Mbadog offers a game for players who are hungry for fun and knowledge about Indonesian food. In this game, I highlight sate and soto ayam as the foods that players must eat that are falling from the top of the screen. If the food falls and is not eaten, the player's life will decrease by one. As soto ayam and sate fall from the top of the screen, sambal also falls and is ready to explode the player if they accidentally eat it. In addition, this game also features gamelan background music as the traditional Javanese musical instrument that can soothe players' ears
